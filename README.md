@@ -3,5 +3,5 @@
 
 Jupyter notebook flow:  
 
-- Get the data
-- Pre-process the data
+- Get the data.
+- Pre-process the data.
