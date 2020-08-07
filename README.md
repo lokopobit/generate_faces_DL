@@ -5,3 +5,4 @@ Jupyter notebook flow:
 
 - Get the data.
 - Pre-process the data.
+- Create dataloader.
