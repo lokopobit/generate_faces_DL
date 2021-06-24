@@ -7,3 +7,5 @@ Jupyter notebook flow:
 - Pre-process the data.
 - Create dataloader.
 - Define the model.
+
+Get the data.
