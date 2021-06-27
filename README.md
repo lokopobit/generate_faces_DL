@@ -11,3 +11,4 @@ Jupyter notebook flow:
 Get the data.  
 Define the model.
 Create dataloader.
+Define the model.
