@@ -8,3 +8,4 @@ Jupyter notebook flow:
 - Create dataloader.
 - Define the model.
 
+Get the data.
